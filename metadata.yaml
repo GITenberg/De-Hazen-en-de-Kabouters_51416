@@ -1,0 +1,31 @@
+_repo: De-Hazen-en-de-Kabouters_51416
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Feuerstein, Greet
+    birthdate: 1893
+    deathdate: 1986
+    gutenberg_agent_id: '46403'
+    url: http://www.gutenberg.org/2009/agents/46403
+creator:
+  author:
+    agent_name: de Holl, Henr.
+    alias: Holl, Henr. de
+    gutenberg_agent_id: '46402'
+    url: http://www.gutenberg.org/2009/agents/46402
+description: ''
+gutenberg_issued: '2016-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51416'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Picture books for children'
+- !lcsh 'Children''s poetry, Dutch'
+- GITenberg
+title: De Hazen en de Kabouters
+url: http://www.gutenberg.org/ebooks/51416
